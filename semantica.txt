@@ -1,0 +1,9 @@
+<!-- TAGs semânticas -->
+
+<header> cabeçalho </header>
+<nav> menu </nav>
+<main> conteúdo principal </main>
+<section> agrupamento de conteúdos relacionados </section>
+<article> artigos, comentários, widget </article>
+<aside> side bar </aside>
+<footer> rodapé </footer>
