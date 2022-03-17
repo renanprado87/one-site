@@ -20,11 +20,17 @@ body{
 }
 
 /* Layout */
-
 .Container {
     margin: 0 auto;
-    background-color: #77ff00;
+    background-color: #dcdcdc;
 
+}
+
+/* Topo do site */
+#topo {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
 }
 
 /* Smartphone Potrait */
@@ -63,7 +69,6 @@ body{
 }
 
 /* PC */
-
 @media (min-width: 1200px){
     body{
         background-color: #f00;
